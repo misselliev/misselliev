@@ -7,6 +7,6 @@
 - :pencil: I enjoy writing in: JS, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS.
 - 💬 Ask me about: Chihuahuas, food recipes! 
 - 😄 Pronouns: she/her
-- :computer: Fun fact: I have 1.5 years of remote work experience 
+- :computer: Fun fact: I have 1.5 years of remote work experience with devs from all over the world
 - :dog: Fun fact 2: My tiny chihuahua dog is ready to review your offer proposal.
 - :zap: You can check out my portfolio [here](https://elizabeth-villalejos.netlify.app)
