@@ -13,7 +13,7 @@
 const eliVillalejos = {
   lookingFor: "Full-stack web developer" | "Front-end developer",
   pronouns: "she" | "her",
-  code: [React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
   challenge: "I am learning typescript",
