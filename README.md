@@ -1,13 +1,11 @@
 
 <h2> Hi, I'm Eli Villalejos! <img src="https://media.giphy.com/media/Oj7dkTnLyYMOrvPbsZ/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="30">
-</em></p>
+<p><em>Remote Full-stack web developer ready for adventure</em></p>:rocket:
 
-[![Twitter: EliVillalejos](https://img.shields.io/twitter/follow/miss_elliev?style=social)](https://twitter.com/miss_elliev)
-[![Linkedin: ellievillalejos](https://img.shields.io/badge/-EliVillalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
-[![GitHub EliVillalejos](https://img.shields.io/github/followers/misselliev?label=follow&style=social)](https://github.com/misselliev)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
+[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
+[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50" marginBottom="1em"> A little more about me...  
 
@@ -26,4 +24,4 @@ const eliVillalejos = {
 ```
 ![Elizabeth's github stats](https://github-readme-stats.vercel.app/api?username=misselliev&show_icons=true&hide_border=true)
 
-<p><img src="https://media.giphy.com/media/ehsmxcJ25HqFKGsErR/giphy.gif" width="50">You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a></p>
+<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="50"></p>
