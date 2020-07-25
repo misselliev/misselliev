@@ -11,8 +11,8 @@
 
 ```javascript
 const eliVillalejos = {
-  lookingFor: "Full-stack web developer" | "Front-end developer",
-  pronouns: "she" | "her",
+  lookingFor: "Full-stack web developer" || "Front-end developer",
+  pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
