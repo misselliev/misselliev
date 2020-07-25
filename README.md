@@ -23,6 +23,7 @@ const eliVillalejos = {
 }
 ```
 <p>This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"></p>
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   43.16 % 
@@ -34,6 +35,7 @@ Markdown     19 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
+
 <!-- BLOG-POST-LIST:START -->
 - [Upgrade your React game with TypeScript: Setup.](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-setup-3bnk)
 - [#remotelife 101](https://dev.to/misselliev/remotelife-101-522h)
