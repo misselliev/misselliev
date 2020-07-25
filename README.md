@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Eli Villalejos! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Eli Villalejos! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
@@ -22,6 +22,12 @@ const eliVillalejos = {
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
 ```
-![Elizabeth's github stats](https://github-readme-stats.vercel.app/api?username=misselliev&show_icons=true&hide_border=true)
+<p>This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="50"></p>
+<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
