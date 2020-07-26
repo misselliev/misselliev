@@ -24,6 +24,8 @@ const eliVillalejos = {
 ```
 <p>This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"></p>
 
+<img src="https://github.com/misselliev/misselliev/blob/master/images/stat.svg" alt="Eli WakaTime Activity"/>
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   43.16 % 
