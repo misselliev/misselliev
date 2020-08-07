@@ -38,9 +38,9 @@ Git Config   11 mins         ░░░░░░░░░░░░░░░░░
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Show off with Github's README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
 - [Upgrade your React game with TypeScript: Interfaces, types and components](https://dev.to/misselliev/interfaces-types-and-components-50e6)
 - [Upgrade your React game with TypeScript: Setup.](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-setup-3bnk)
-- [#remotelife 101](https://dev.to/misselliev/remotelife-101-522h)
 <!-- BLOG-POST-LIST:END -->
 
 <p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
