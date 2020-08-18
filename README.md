@@ -38,7 +38,7 @@ Ruby         13 mins         ▒░░░░░░░░░░░░░░░░
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade your React game with TypeScript: Routing](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
+- [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
 - [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
 - [Show off with Github's README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
 <!-- BLOG-POST-LIST:END -->
