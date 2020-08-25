@@ -25,6 +25,13 @@ const eliVillalejos = {
 <p>This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"></p>
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   4 hrs 15 mins   ██████████████████░░░░░░░   71.81 % 
+JSON         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Ruby         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JSX          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
 <!--END_SECTION:waka-->
 
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
