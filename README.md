@@ -22,11 +22,10 @@ const eliVillalejos = {
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
 ```
-<!--- <p>This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"></p> -->
+<p>This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"></p>
 
-
-<!--START_SECTION -->
-<!--END_SECTION -->
+<!--START_SECTION:waka -->
+<!--END_SECTION:waka -->
 
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
