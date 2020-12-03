@@ -11,12 +11,12 @@
 
 ```javascript
 const eliVillalejos = {
-  lookingFor: "Full-stack web developer" || "Front-end developer",
+  lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am learning typescript",
+  challenge: "I am honing my React skills",
   funFacts: ['I have 1.5 years of remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
