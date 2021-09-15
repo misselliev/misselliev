@@ -26,11 +26,11 @@ const eliVillalejos = {
 
 <!--START_SECTION:waka-->
 ```text
-JSX          10 hrs 19 mins  █████████▒░░░░░░░░░░░░░░░   37.32 % 
-JavaScript   5 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-SCSS         5 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-TypeScript   4 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Other        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSX          14 hrs 13 mins  ███████████░░░░░░░░░░░░░░   44.28 % 
+JavaScript   6 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+SCSS         5 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 % 
+TypeScript   3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Other        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->
 
