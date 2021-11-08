@@ -39,7 +39,7 @@ Stylus       1 min           ░░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:START -->
 - [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
 - [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
-- [Show off with Github's README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
+- [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
 <!-- BLOG-POST-LIST:END -->
 
 <p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
