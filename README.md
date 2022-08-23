@@ -17,7 +17,7 @@ const eliVillalejos = {
   Tailwind CSS, Material UI],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
   challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 3+ years of remote work experience with devs 
+  funFacts: ['I have 4+ years of remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
