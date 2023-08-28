@@ -22,17 +22,6 @@ const eliVillalejos = {
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
 ```
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   5 hrs 53 mins   ██████████████████▓░░░░░░   74.87 %
-SCSS         1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-JSON         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-```
-
-<!--END_SECTION:waka-->
 
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
