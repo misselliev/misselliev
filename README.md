@@ -31,4 +31,4 @@ const eliVillalejos = {
 - [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
 <!-- BLOG-POST-LIST:END -->
 
-<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://elizabethvillalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
