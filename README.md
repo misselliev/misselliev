@@ -17,7 +17,7 @@ const eliVillalejos = {
   Bootstrap, Tailwind CSS, Material UI, Node, TypeScript, Responsive Design],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
   challenge: "I am honing my React skills and picking up Next",
-  funFacts: ['I have 4+ years of remote work experience with devs 
+  funFacts: ['I have 5+ years of remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
