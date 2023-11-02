@@ -13,8 +13,9 @@
 const eliVillalejos = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI,
-  Bootstrap, Tailwind CSS, Material UI, Node, TypeScript, Storybook, Responsive Design],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS,
+  Semantic UI, Bootstrap, Tailwind CSS, Material UI, Node,
+  TypeScript, Storybook, Responsive Design],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
   challenge: ["Always learning", "bake the perfect pumpkin spice pie"],
   funFacts: ['I have 5+ years of remote work experience with devs 
