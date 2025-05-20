@@ -20,10 +20,11 @@ const eliVillalejos = {
   challenge: ["Always learning", "bake the perfect pumpkin spice pie"],
   funFacts: ['I have 5+ years of remote work experience with devs 
   from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer',
-  'open source contributor at Looker Open Source']
+  'my tiny chihuahua dog is ready to woof at the right offer']
 }
 ```
+
+Open source contributor at <a href="https://github.com/elivillalejos">Looker Open Source</a>
 
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="50"></p>
 
