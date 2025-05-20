@@ -20,7 +20,8 @@ const eliVillalejos = {
   challenge: ["Always learning", "bake the perfect pumpkin spice pie"],
   funFacts: ['I have 5+ years of remote work experience with devs 
   from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  'my tiny chihuahua dog is ready to woof at the right offer',
+  'open source contributor at Looker Open Source']
 }
 ```
 
