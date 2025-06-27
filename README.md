@@ -29,9 +29,9 @@ Open source contributor at <a href="https://github.com/elivillalejos">Looker Ope
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="50"></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
-- [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
-- [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
+- [Upgrade your React game with TypeScript: Routes](https://forem.com/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
+- [Upgrade your React game with TypeScript: More on Types](https://forem.com/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
+- [Show off with Github&#39;s README](https://forem.com/misselliev/show-off-with-github-s-readme-40eh)
 <!-- BLOG-POST-LIST:END -->
 
 <p>You can check out my portfolio <a href="https://elizabethvillalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
