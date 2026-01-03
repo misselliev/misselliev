@@ -1,37 +1,64 @@
 
-<h2> Hi, I'm Eli Villalejos! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Frontend web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="30"></p>
+# Hi, I'm Eli Villalejos.
+### Senior Frontend Engineer & Data Visualization Specialist
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eli%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elivillalejos/)](https://www.linkedin.com/in/elivillalejos/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
+*Turning complex numbers into beautiful, pixel-perfect experiences.*
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="30"> A little more about me...  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/elivillalejos)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=kofi&logoColor=white)](https://elizabethvillalejos.netlify.app/)
+[![Blog](https://img.shields.io/badge/-Blog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/misselliev)
+---
 
-```javascript
-const eliVillalejos = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS,
-  Semantic UI, Bootstrap, Tailwind CSS, Material UI, Node,
-  TypeScript, Storybook, Responsive Design],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: ["Always learning", "bake the perfect pumpkin spice pie"],
-  funFacts: ['I have 5+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
-}
-```
+I am a **Senior Frontend Engineer** specializing in **High-Performance Data Visualization** and **Scalable UI Architecture**.
 
-Open source contributor at <a href="https://github.com/elivillalejos">Looker Open Source</a>
+Currently, I serve as a Subject Matter Expert (SME) for a Fortune 100 technology company, where I architect rendering engines for complex Business Intelligence platforms. My work bridges the gap between raw data and actionable user insights through pixel-perfect, performant code.
 
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="50"></p>
+<small>Open source contributor at <a href="https://github.com/elivillalejos">Looker Open Source</a></small>
 
-<!-- BLOG-POST-LIST:START -->
-- [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
-- [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
-- [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
-<!-- BLOG-POST-LIST:END -->
+### 🛠 Technical Arsenal
 
-<p>You can check out my portfolio <a href="https://elizabethvillalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+**Visualization & Graphics**
+<p>
+  <img src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5%20Canvas-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Recharts-22b5bf?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SVG-FFB13B?style=flat&logo=svg&logoColor=black" />
+</p>
+
+**Core Engineering**
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+</p>
+
+**Testing & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD%20Pipelines-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+### 🔭 What I'm Working On
+
+* **Architecting** custom visualization libraries that extend beyond standard chart capabilities (Trellis charts, Force-directed graphs).
+* **Optimizing** large-scale rendering performance using Virtualized DOM and Canvas API strategies.
+* **Maintaining** internal open-source ecosystems, focusing on governance, backward compatibility, and developer experience (DX).
+
+
+### 🏆 Certifications
+
+* **Cloud Digital Leader** | Google Cloud
+* **Generative AI Leader** | Google Cloud
+* **MongoDB Associate** | MongoDB
+* **English C2 Proficiency** | Cambridge Assessment
+
+---
+
+<p align="center">
+  <sub><em>"Data is just numbers until you give it a shape."</em></sub>
+</p>
