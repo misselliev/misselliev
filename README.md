@@ -1,6 +1,6 @@
 
 # Hi, I'm Eli Villalejos.
-### Senior Frontend Engineer & Data Visualization Specialist
+### Senior Frontend AI Engineer & Data Visualization Specialist
 
 *Turning complex numbers into beautiful, pixel-perfect experiences.*
 
